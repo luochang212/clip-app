@@ -5,4 +5,5 @@
 .nox
 .ipynb_checkpoints
 __pycache__
-model
+model/clip-vit-base-patch32
+model/Taiyi-CLIP-Roberta-102M-Chinese
